@@ -1,0 +1,28 @@
+#include <stdio.h>
+int main()
+{
+	int a;
+	FILE *fout;
+	//dsfakadjfk
+	fout = fopen("output.txt","w");
+	fprintf(fout, "Hello World\n");//Comment
+	fclose(fout);
+}
+#include <stdio.h>
+int main()
+{
+	int a;
+	FILE *fout;
+	fout = fopen("output.txt","w");
+	fprintf(fout, "Hello World\n");//Comment
+	fclose(fout);
+}
+#include <stdio.h>
+int main()
+{
+	int a;
+	FILE *fout;
+	fout = fopen("output.txt","w");
+	fprintf(fout, "Hello World\n");//Comment
+	fclose(fout);
+}
